@@ -1,0 +1,7 @@
+{
+  "config": {
+    "github-protocols": ["https"],
+    "process-timeout": 600,
+    "cafile": null
+  }
+}

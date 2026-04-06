@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Laravel Setup - Install & Migrate",
+			"type": "shell",
+			"command": "cd \"c:\\xampp\\htdocs\\posho mili project\\posho_mill_laravel\" && composer install && php artisan key:generate",
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
